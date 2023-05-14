@@ -1,0 +1,12 @@
+What I learned so far in python crash course:
+variables
+operators
+dictionaries
+functions
+list 
+loops
+tupples
+set
+dictionaries
+input
+output
